@@ -5,9 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "Ramukaka124421.aternos.me",
-    "port": 42880,
+  "server": "12345678910",
+    "port": 12345,
     "version": "1.20.1",
     "try-creative": false
   },
