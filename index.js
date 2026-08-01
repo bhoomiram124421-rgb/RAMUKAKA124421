@@ -1,4 +1,4 @@
-"use strict";
+throw new Error("TEST");"use strict";
 
 const { addLog, getLogs } = require("./logger");
 const mineflayer = require("mineflayer");
